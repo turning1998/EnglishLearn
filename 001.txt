@@ -1,7 +1,8 @@
 1.work
  vi 工作；产生...作用，争取
  v (使)运转
-n 工作，工作成果;作品
+n 工作，工作成果;
+作品
 
 work against sb/sth 对...不利
 work on 对...起作用 ，从事于
@@ -9,7 +10,7 @@ work out 实现,锻炼
 at work 起作用 在工作
 work for sb/sth 为...工作
 
-coworker n 同事
+coworker n 同事(co表示共同，共同的意思)
 workforce n 劳动力；全体员工
 workplace n 工作场所
 workstation n 工作站
