@@ -16,7 +16,7 @@ estate agent n 房地产经纪人
 
 status n 地位 状况 状态
 
-statute n 法律 法规
+statute n 法律 法规[xxxxxx]
 statute of limitations n 期限
 
 statistical a 统计的 统计学的
